@@ -11,5 +11,6 @@ public class Other {
         //System.out.println(obj.c); // protected - not accessible (not a subclass)
         System.out.println(obj.d);   // public - accessible everywhere
         System.out.println(obj.d);   // public - accessible everywhere
+        System.out.println(obj.d);   // public - accessible everywhere
     }
 }
