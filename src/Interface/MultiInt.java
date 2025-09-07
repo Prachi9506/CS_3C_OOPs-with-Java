@@ -1,7 +1,8 @@
+package Interface;
 interface A {
     void show();
 }
-interface B {
+interface AB {
     void show();
 }
 class C implements A, B {

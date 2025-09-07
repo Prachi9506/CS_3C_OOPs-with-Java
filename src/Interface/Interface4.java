@@ -1,3 +1,4 @@
+package Interface;
 interface MyInterface {
     public static final int x = 10;
 }
