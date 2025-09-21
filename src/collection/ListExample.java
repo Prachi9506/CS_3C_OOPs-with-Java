@@ -1,6 +1,7 @@
 package collection;
 
 import java.util.*;
+import java.util.LinkedList
 
 public class ListExample {
     public static void main(String[] args) {
